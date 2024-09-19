@@ -9,9 +9,10 @@ class Node{
         left=NULL;
         right=NULL;
     }
-    
+
 };
 int main(){
-    //create bst
+    //create bs
+    cout<<"Hell";
     return 0;
 }
